@@ -1,6 +1,0 @@
-[submodule "fitness_app_fe"]
-	path = fitness_app_fe
-	url = https://github.com/krizek79/fitness_app_fe.git
-[submodule "fitness_app_be"]
-	path = fitness_app_be
-	url = https://github.com/krizek79/fitness_app_be.git
