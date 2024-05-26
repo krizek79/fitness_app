@@ -9,4 +9,4 @@
 - React
 - Tailwind
 ## Update repository
-Update each submodule to master state and push.
+[Follow these instructions](https://stackoverflow.com/a/8191413)
